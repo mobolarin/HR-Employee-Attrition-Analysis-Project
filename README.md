@@ -1,15 +1,6 @@
 # Employee Attrition Analysis Project (Slatium HR Case Study)
-# Employee Attrition Analysis — Slatium HR
 
 #### Workforce Retention & Risk Insights
-
-**Tools:** 
-1. MySQL
-2. Tableau
-3. Microsoft PowerPoint
-
-
-![Employee Attrition Dashboard](./images/attrition_dashboard.png)
 
 ### Table of Contents
 * [Overview](#overview)
@@ -38,6 +29,11 @@ Slatium is experiencing a significant rate of employee attrition, particularly i
 - **organisation type:** Mid-to-large IT company
 - **Key stakeholders:** Senior Management/Executives, HR Leadership, Department Heads (R&D, Sales, HR)
 
+### Tools
+1. MySQL
+2. Tableau
+3. Microsoft PowerPoint
+
 ### Key Performance Indicators
 - Attrition Rate: 16.12%
 - Attrition Count: 237
@@ -53,6 +49,8 @@ Slatium is experiencing a significant rate of employee attrition, particularly i
 
 1. How does attrition vary across departments, roles, and job levels?
 - Objective: Measure attrition rates across departments and roles.
+![1a](./Images/1a.png)
+![1b](./Images/1b.png)
 
 
 2. Which demographic and work-related factors are associated with attrition?
