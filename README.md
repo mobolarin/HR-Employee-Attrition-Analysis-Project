@@ -55,12 +55,19 @@ Slatium is experiencing a significant rate of employee attrition, particularly i
 
 2. Which demographic and work-related factors are associated with attrition?
 - Objective: Identify demographic and work-related factors linked to attrition.
+![2ai](./Images/2ai.png)
+![2aii](./Images/2aii.png)
+![2aiii](./Images/2aiii.png)
+![2aiv](./Images/2aiv.png)
 
+![2bi](./Images/2bi.png)
+![2bii](./Images/2bii.png)
+![2biii](./Images/2biii.png)
+![2biv](./Images/2biv.png)
 
 3. How do satisfaction metrics relate to employee attrition?
 - Objective: Analyse satisfaction metrics and their relationship with attrition.
-
-
+![3a](./Images/3a.png)
 
 
 ### Key Insights
